@@ -104,7 +104,7 @@ Once the parameter `forecastDays` will be changed, the available channel groups 
 | forecastHours03, forecastHours06, ... forecastHours120 | condition      | String               | Forecast weather condition.                                                |
 | forecastHours03, forecastHours06, ... forecastHours120 | condition-id   | String               | Id of the forecasted weather condition. **Advanced**                       |
 | forecastHours03, forecastHours06, ... forecastHours120 | icon           | Image                | Icon representing the forecasted weather condition.                        |
-| forecastHours03, forecastHours06, ... forecastHours120 | icon-id        | String               | Id fo the icon representing the forecasted weather condition. **Advanced** |
+| forecastHours03, forecastHours06, ... forecastHours120 | icon-id        | String               | Id of the icon representing the forecasted weather condition. **Advanced** |
 | forecastHours03, forecastHours06, ... forecastHours120 | temperature    | Number:Temperature   | Forecasted temperature.                                                    |
 | forecastHours03, forecastHours06, ... forecastHours120 | pressure       | Number:Pressure      | Forecasted barometric pressure.                                            |
 | forecastHours03, forecastHours06, ... forecastHours120 | humidity       | Number:Dimensionless | Forecasted atmospheric humidity.                                           |
